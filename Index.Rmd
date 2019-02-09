@@ -1,0 +1,15 @@
+---
+title: "Evictions Report"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+source("analysis.R")
+```
+
+This is my report.
+
+ 
+ 
